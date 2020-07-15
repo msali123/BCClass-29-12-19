@@ -1,5 +1,3 @@
-# BCClass-29-12-19
-
 # Terms of Service
 ### Modified: July8th, 2020
 Certifly offers a cloud-based software platform for commercial drones (“Services”), making the power of aerial data accessible and productive for everyone. Since our products are cloud based, you can access them through the web and through a number of device types (e.g., desktop, laptop, tablets, and smartphone and other mobile devices).
