@@ -95,7 +95,7 @@ td = len(soup.find_all('td'))
 links = []
 for x in range(td):
 
-    #Extracting the article links found after searching the term medicare advantage
+    #Extracting the article links found after searching the term Selenium
     section = soup.find_all('div', attrs={'class' : 'r'})
 
     #since the first page is already open we have to extract the links before it moves to the next page
