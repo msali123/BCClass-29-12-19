@@ -2,7 +2,7 @@
 
 ## Introduction
 
-## Objectives
+Extracting the all the links from google using [Selenium](https://www.selenium.dev/) and [Beautifulsoup](https://pypi.org/project/beautifulsoup4/). Web scraping in Python is dominated by three major libraries: BeautifulSoup, Scrapy, and Selenium. Each of these libraries intends to solve for very different use cases.
 
 ## Getting Started
 
