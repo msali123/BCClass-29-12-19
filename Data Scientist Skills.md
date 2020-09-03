@@ -51,7 +51,7 @@ mpLib.axis("off")
 mpLib.show()
 ```
 
-![alt text](./img1.PNG "Logo Title Text 1")
+![alt text](./img1.png "Logo Title Text 1")
 
 #### Add more words to ignore
 
@@ -70,4 +70,4 @@ mpLib.axis("off")
 mpLib.show()
 ```
 
-![alt text](./img2.PNG "Logo Title Text 1")
+![alt text](./img2.png "Logo Title Text 1")
